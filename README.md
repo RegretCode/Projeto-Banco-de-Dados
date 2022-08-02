@@ -1,4 +1,4 @@
-  Trabalho final da matéria Projeto de Banco de Dados, realizado pelos autores Gustavo Henrique Roos, Otávio Fernandes dos Santos e Ricardo Coutinho Cordeiro. O projeto foi realizado a partir de um modelo conceitual e depois passado para um modelo lógico para assim criar o banco de dados de uma loja de Games.
+  Trabalho final da matéria Projeto de Banco de Dados, realizado pelos autores Gustavo Henrique Roos, Otávio Fernandes dos Santos e Ricardo Coutinho Cordeiro. A ideia surgiu a partir de um modelo conceitual e depois passado para um modelo lógico para assim criar o banco de dados de uma loja de Games.
   
   O projeto foi feito visando quais informações seriam necessárias e interessantes de se manter armazenadas quando se trata de uma loja, então foi pensado desde as funcionalidades mais fundamentais, como venda de produtos e gerenciamento de funcionários, até um sistema de reviews de jogos, feito pelos clientes da loja.
   
